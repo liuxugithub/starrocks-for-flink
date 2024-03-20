@@ -44,9 +44,8 @@ limitations under the License.
     <groupId>com.starrocks</groupId>
     <artifactId>flink-connector-starrocks</artifactId>
     <version>${srfc.version}_flink-${flink.minor.version}</version>
-
     <properties>
-        <srfc.version>1.2.10</srfc.version>
+        <srfc.version>1.2.11</srfc.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
